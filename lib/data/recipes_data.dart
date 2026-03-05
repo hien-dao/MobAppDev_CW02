@@ -3,7 +3,7 @@ import '../models/recipe.dart';
 final List<Recipe> sampleRecipes = [
   Recipe(
     name: 'Spaghetti Bolognese',
-    imagePath: 'assets/images/pasta.jpg',
+    imagePath: 'assets/pasta.jpg',
     ingredients: [
       'Spaghetti',
       'Ground beef',
@@ -19,7 +19,7 @@ final List<Recipe> sampleRecipes = [
 
   Recipe(
     name: 'Chicken Alfredo',
-    imagePath: 'assets/images/chicken_alfredo.jpg',
+    imagePath: 'assets/chicken_alfredo.jpg',
     ingredients: [
       'Fettuccine',
       'Chicken breast',
@@ -34,7 +34,7 @@ final List<Recipe> sampleRecipes = [
 
   Recipe(
     name: 'Vegetable Stir Fry',
-    imagePath: 'assets/images/veggie_stirfry.jpg',
+    imagePath: 'assets/veggie_stirfry.jpg',
     ingredients: [
       'Broccoli',
       'Bell peppers',
@@ -49,7 +49,7 @@ final List<Recipe> sampleRecipes = [
 
   Recipe(
     name: 'Beef Tacos',
-    imagePath: 'assets/images/beef_tacos.jpg',
+    imagePath: 'assets/beef_tacos.jpg',
     ingredients: [
       'Tortillas',
       'Ground beef',
